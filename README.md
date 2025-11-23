@@ -1,4 +1,3 @@
-```markdown
 # Emergency Routing System
 Screenshot 2025-11-19 165735.png
 https://github.com/Vincentius474/CA_Emergency_Routing_System/blob/main/Screenshot%202025-11-19%20165700.png
