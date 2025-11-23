@@ -1,0 +1,7 @@
+timestamp,start,target,total_time,penalty,route_length,reason
+2025-11-23 10:38:20,Unnamed road,Suid Street,403.05,252.00,43,initial-with-penalty
+2025-11-23 10:38:37,De Wet Drive,Suid Street,446.43,192.00,33,reroute-from-current
+2025-11-23 10:39:14,Webster Street,Suid Street,91.48,42.00,8,reroute-from-current
+2025-11-23 10:39:23,Grassmere Close,Kigelia Street,565.18,282.00,48,initial-with-penalty
+2025-11-23 10:39:35,Diemeer Street,Acacia Avenue,547.08,252.00,43,reroute-from-current
+2025-11-23 10:39:50,Potgieter Avenue,Acacia Avenue,391.05,192.00,33,reroute-from-current
