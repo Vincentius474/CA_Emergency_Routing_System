@@ -1,6 +1,8 @@
 # Emergency Routing System
-[Screenshot 2025-11-19 165735.png](https://github.com/Vincentius474/CA_Emergency_Routing_System/blob/main/Screenshot%202025-11-19%20165735.png)
-[Screenshot 2025-11-19 165700.png](https://github.com/Vincentius474/CA_Emergency_Routing_System/blob/main/Screenshot%202025-11-19%20165700.png)
+
+<img width="1246" height="970" alt="screenshotA" src="https://github.com/user-attachments/assets/45d94c25-b465-4e32-9e0f-3770eeabf1dc" />
+
+<img width="1247" height="909" alt="screenshotB" src="https://github.com/user-attachments/assets/74975c65-85fd-4670-bef4-04274f25ddc7" />
 
 
 ## Overview
