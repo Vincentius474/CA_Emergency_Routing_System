@@ -7,7 +7,7 @@
 
 ## Overview
 
-The Emergency Routing System is a comprehensive Python application designed to provide intelligent route planning for emergency vehicles (ambulances, fire engines, and police units) in urban environments. The system incorporates real-world constraints, traffic simulation, and multiple pathfinding algorithms to generate optimal routes for emergency response scenarios.
+Constraint-Aware Real-time Routing System (CARRS) is a comprehensive Python application designed to provide intelligent route planning for emergency vehicles (ambulances, fire engines, and police units) in urban environments. The system incorporates real-world constraints, traffic simulation, and multiple pathfinding algorithms to generate optimal routes for emergency response scenarios.
 
 ## Features
 
